@@ -44,10 +44,7 @@ Here are some ideas to get you started:
 |---|
 | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|
 
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/zasalast"><img src="https://github-readme-stats.vercel.app/api?username=zasalast&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zasalast's GitHub stats" /></a>
-
+ 
+## 📈My statistics
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zasalast&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=city_lights)](https://github.com/zasalast/github-readme-stats)|<a href="http://www.github.com/zasalast"><img src="https://github-readme-stats.vercel.app/api?username=zasalast&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zasalast's GitHub stats" /></a>|
+|---|---|
