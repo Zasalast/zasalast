@@ -11,7 +11,7 @@
 
 
 Here are some ideas to get you started:
-- 👀 I’m interested in Frontend and Backend (HTML, Javascript, SCSS, React.js, Nest.js, TypeORM, SQL, AutoCAD, Canva, Woocommerce, WordPress, Mongodb, JWT,...)
+- 👀 I have a keen interest in both Frontend and Backend development, with skills in HTML, JavaScript, SCSS, React.js, Nest.js, TypeORM, SQL, AutoCAD, Canva, Woocommerce, WordPress, MongoDB, JWT, and more.
 - 🔭 I’m currently working on Estudio y Agencia, also developing website of the network seedbed of the University of the Amazon.
 - 💞️ I’m currently studying as a Platzi student
 - 🌱 I’m currently learning Figma, Next and Design in ![Platzi](https://img.shields.io/badge/platzi-black.svg?style=for-the-badge&logo=platzi&logoColor=?logoColor=blue).
